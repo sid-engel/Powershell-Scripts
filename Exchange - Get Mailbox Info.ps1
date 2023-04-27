@@ -1,6 +1,6 @@
 <#
     .SYNOPSIS
-    MailboxSizeReport.ps1
+    Exchange - Get Mailbox Info.ps1
 
     .DESCRIPTION
     Display or export mailbox size report and many more information for a single user or all users (wildcard support).
