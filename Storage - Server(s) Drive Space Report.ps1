@@ -1,3 +1,5 @@
+# THIS SCRIPT WILL retrieve all the Windows Servers in the domain and export the disk drives to a CSV file.
+
 Set-ExecutionPolicy Unrestricted -Force
 Import-Module ActiveDirectory
 
